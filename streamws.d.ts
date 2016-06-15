@@ -1,4 +1,4 @@
-declare module "ws" {
+declare module "streamws" {
     import * as events from 'events';
     import * as http from 'http';
     import * as net from 'net';
